@@ -1,0 +1,51 @@
+{
+    "sarscov2 - fasta": {
+        "content": [
+            {
+                "0": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "genome_500.fasta:md5,2e454d6187b10dfe43e67b121e099ab6"
+                    ]
+                ],
+                "1": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "genome.fasta_500_elongated:md5,3a9ea6d336e113a74d7fdca5e7b623fc"
+                    ]
+                ],
+                "2": [
+                    "versions.yml:md5,48802d9192befc5321e734a143487334"
+                ],
+                "contig": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "genome.fasta_500_elongated:md5,3a9ea6d336e113a74d7fdca5e7b623fc"
+                    ]
+                ],
+                "fasta": [
+                    [
+                        {
+                            "id": "test"
+                        },
+                        "genome_500.fasta:md5,2e454d6187b10dfe43e67b121e099ab6"
+                    ]
+                ],
+                "versions": [
+                    "versions.yml:md5,48802d9192befc5321e734a143487334"
+                ]
+            }
+        ],
+        "meta": {
+            "nf-test": "0.8.4",
+            "nextflow": "23.04.1"
+        },
+        "timestamp": "2024-03-20T09:53:03.061512"
+    }
+}
